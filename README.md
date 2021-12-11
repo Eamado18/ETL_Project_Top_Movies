@@ -4,7 +4,7 @@ For this project, we decided use a relational database PostgresSQL to store the 
 
 1.	Extraction
       We used the following CSV and Website to source our data
-	       -CSV From Kaggle - https://www.kaggle.com/axeltorbenson/top-4000-movies
+	 -CSV From Kaggle - https://www.kaggle.com/axeltorbenson/top-4000-movies
          -Scraped IMDb Top 250 Movies - https://www.imdb.com/chart/top/
       The fields of interest were:
           -Movie Title
