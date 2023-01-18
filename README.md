@@ -16,6 +16,7 @@ For this project, we decided use a relational database PostgresSQL to store the 
           -Rating
 	  
 2.	Transforming:
+3.	
       Scrapping IMDb top 250 movies
           -Used Beautiful Soup, splinter, webdriver_manager to conduct scraping of IMDB website
           -Used comprehensive list to gather movie titles, year, and rating, ranking
