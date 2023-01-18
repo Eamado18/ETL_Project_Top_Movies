@@ -29,10 +29,13 @@ For this project, we decided use a relational database PostgresSQL to store the 
       Merged dataframes:
           -Merged imdb with Top_4k on “Movie Title”
 3.	Loading:
+      
       Connected to PostgreSQL via sqlalchemy
+      
          -Decided to use a SQL database instead of Mongodb because all of our data was structured data
+	 
          -Checked for existing database and created new if did not exist
-	    Loaded our 3 tables into PostgreSQL
+	 -Loaded our 3 tables into PostgreSQL
                -Imdb
                -top_4k
                -merged_df
