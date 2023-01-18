@@ -41,4 +41,4 @@ For this project, we decided use a relational database PostgresSQL to store the 
                -top_4k
                -merged_df
 	       
-      Confirmed all data was passed as intended to PostgreSQL
+         -Confirmed all data was passed as intended to PostgreSQL
