@@ -16,18 +16,18 @@ For this project, we decided use a relational database PostgresSQL to store the 
           -Rating
 	  
 2.	Transforming:
-3.	
-      Scrapping IMDb top 250 movies
+		
+      -Scrapping IMDb top 250 movies
           -Used Beautiful Soup, splinter, webdriver_manager to conduct scraping of IMDB website
           -Used comprehensive list to gather movie titles, year, and rating, ranking
           -Loaded scrapped data into pandas dataframe
 	  
-      Cleaning the CSV:
+      -Cleaning the CSV:
           -Used Pandas to load CSV
           -Dropped rows with null values
           -Dropped rows with 0s
 	  
-      Merged dataframes:
+      -Merged dataframes:
           -Merged imdb with Top_4k on “Movie Title”
 3.	Loading:
       
